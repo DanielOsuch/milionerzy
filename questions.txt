@@ -1,0 +1,9 @@
+Czy Polska leży w Europie? YES
+Czy String to Klasa? YES
+Czy 1410 to rok bitwy pod Grunwaldem? YES
+Czy OOP to projektowanie obiektowe? YES
+Czy w Warszawie można podróżować metrem? YES
+Czy Polska leży na południu Europy? NO
+Czy Berlin to stolica Niemiec? YES
+Czy Faceook jest płatnym serwisem społecznościowym? NO
+Czy Sydney jest stolicą Rosji? nope
