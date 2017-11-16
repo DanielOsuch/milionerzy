@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.stream.Stream;
 
 public class FromFileGenerator implements QuestionGenerator {
-    private String fileName = "C:\\Users\\Solonez\\Desktop\\Projects\\Millionares\\questions.txt";
+    private String fileName = "C:\\Users\\Daniel\\IdeaProjects\\millionaires\\questions.txt";
     private static List<Question> questionList = new ArrayList<>();
 
     public static void createQuestion(String s) {
